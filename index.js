@@ -1,0 +1,9 @@
+{
+  "name": "exodus-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "discord.js": "^14.0.0"
+  }
+}
